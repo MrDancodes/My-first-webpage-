@@ -1,0 +1,6 @@
+h1 {color: rgb(5, 5, 5);}
+h2 {color: grey; font-size: 30px; text-align: center;}
+h3 {color: black; font-style: normal; }
+li  {font-style: italic; font-weight: bold;}
+p {font-size: 20px; font-style: inherit;}
+img {border-radius: 8px;max-width: 25%; max-height: 25%; margin-right: auto; margin-left: auto; display: block;}
