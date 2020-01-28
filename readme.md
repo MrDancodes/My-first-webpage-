@@ -27,4 +27,4 @@ _Please contact us at Mr.dancodes@gmail.com for help with any issues, or questio
 
 ### License
 _GPLv3_
-Copywrite (c) 2019 **_Daniel Olvera_**
+Copywrite (c) 2020 **_Daniel Olvera_**
