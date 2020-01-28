@@ -11,7 +11,7 @@ it has been made using HTML, and is an example of ideal layout and clean coding.
 *_Github account_*
 *_Web browser_*
 
-_Simply run the Mu Favourite Things .HTML file from your desktop, using Explore, Firfox, or Chrome web browsers 
+_Simply run the My Favourite Things .HTML file from your desktop, using Explore, Firfox, or Chrome web browsers 
 no other setup should be required_ 
 
 ## Known Bugs 
