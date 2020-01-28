@@ -5,13 +5,13 @@
 
 ## _Description_
 This is a two page web page designed to share personal information about the user like, thoughts, and more.
-it has been made using HTML, and is an example of ideal layout and clean coding.
+It has been made using HTML, and is an example of ideal layout and clean coding.
 
 ## Setup / installation Requirments
 *_Github account_*
 *_Web browser_*
 
-_Simply run the My Favourite Things .HTML file from your desktop, using Explore, Firfox, or Chrome web browsers 
+_Simply run the My Favourite Things .HTML file from your desktop, using Explore, Firefox, or Chrome web browsers 
 no other setup should be required_ 
 
 ## Known Bugs 
